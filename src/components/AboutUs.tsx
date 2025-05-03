@@ -28,8 +28,8 @@ const AboutUs = () => {
           
           <div className="relative h-64 md:h-auto rounded-xl overflow-hidden">
             <img 
-              src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" 
-              alt="Crianças e jovens estudando juntos" 
+              src="/lovable-uploads/9cfe2107-805b-4aa8-bf70-7a4c5ebe5b40.png" 
+              alt="Crianças diversas estudando, escrevendo e brincando juntas" 
               className="w-full h-full object-cover rounded-xl"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent flex items-end">
