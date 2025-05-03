@@ -19,6 +19,9 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				nunito: ['Nunito', 'sans-serif'],
+			},
 			colors: {
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
@@ -63,15 +66,15 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-        eureka: {
-          blue: '#3B82F6',
-          green: '#10B981',
-          yellow: '#FBBF24',
-          purple: '#8B5CF6',
-          pink: '#EC4899',
-          red: '#EF4444',
-          light: '#F3F4F6',
-        }
+				eureka: {
+					blue: '#3B82F6',
+					green: '#10B981',
+					yellow: '#FBBF24',
+					purple: '#8B5CF6',
+					pink: '#EC4899',
+					red: '#EF4444',
+					light: '#F3F4F6',
+				}
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
