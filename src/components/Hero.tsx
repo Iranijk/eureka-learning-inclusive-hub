@@ -35,9 +35,9 @@ const Hero = () => {
             <div className="relative">
               <div className="absolute -inset-1 rounded-lg bg-gradient-to-r from-eureka-blue via-eureka-purple to-eureka-pink opacity-30 blur-lg"></div>
               <img 
-                src="/lovable-uploads/311a44c2-8ece-48d6-ba97-3f2e89f42e08.png" 
-                alt="Crianças diversas estudando e brincando juntas" 
-                className="relative rounded-lg shadow-lg w-full object-cover h-80 md:h-96"
+                src="/lovable-uploads/4b902c7d-71c1-4b28-8307-7242c671de5a.png" 
+                alt="Logo Eureka com lápis, pincel e caneta coloridos" 
+                className="relative rounded-lg shadow-lg w-full object-contain h-80 md:h-96 bg-white p-4"
               />
             </div>
           </div>
