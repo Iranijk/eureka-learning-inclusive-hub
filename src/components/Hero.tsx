@@ -35,9 +35,9 @@ const Hero = () => {
             <div className="relative">
               <div className="absolute -inset-1 rounded-lg bg-gradient-to-r from-eureka-blue via-eureka-purple to-eureka-pink opacity-30 blur-lg"></div>
               <img 
-                src="https://images.unsplash.com/photo-1518495973542-4542c06a5843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80" 
-                alt="Crianças estudando com materiais inclusivos" 
-                className="relative rounded-lg shadow-lg w-full object-cover h-80 md:h-96"
+                src="/lovable-uploads/2ab75a6a-61b1-4b93-91f3-3035b56f9c33.png" 
+                alt="Eureka! Materiais Pedagógicos Inclusivos" 
+                className="relative rounded-lg shadow-lg w-full object-contain h-80 md:h-96 bg-white p-4"
               />
             </div>
           </div>
