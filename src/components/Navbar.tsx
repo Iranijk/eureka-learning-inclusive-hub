@@ -11,11 +11,14 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <img 
-                src="https://drive.google.com/uc?export=view&id=1wETgGwMiCn10AmFy1GDvx0QCwabVjzsI" 
-                alt="Eureka! Logo" 
-                className="h-10"
-              />
+              <div className="flex items-center">
+                <img 
+                  src="public/lovable-uploads/ff581747-4981-4dc1-8dd4-c904b6649f4b.png" 
+                  alt="Eureka! Logo" 
+                  className="h-8 mr-2"
+                />
+                <span className="font-bold text-xl text-eureka-blue">Eureka!</span>
+              </div>
             </div>
             <div className="hidden md:block ml-6">
               <div className="flex items-center space-x-4">
