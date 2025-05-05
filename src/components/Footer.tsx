@@ -9,11 +9,14 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 pb-8">
           <div>
-            <img 
-              src="https://drive.google.com/uc?export=view&id=1wETgGwMiCn10AmFy1GDvx0QCwabVjzsI" 
-              alt="Eureka! Logo" 
-              className="h-12 mb-4 bg-white p-2 rounded"
-            />
+            <div className="flex items-center mb-4">
+              <img 
+                src="public/lovable-uploads/ff581747-4981-4dc1-8dd4-c904b6649f4b.png" 
+                alt="Eureka! Logo" 
+                className="h-10 bg-white p-1 rounded mr-2"
+              />
+              <span className="font-bold text-xl text-white">Eureka!</span>
+            </div>
             <p className="text-gray-300 mb-4">
               Seu Aliado Essencial na Educação de Adolescentes e Jovens!
             </p>
